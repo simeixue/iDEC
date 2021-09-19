@@ -1,16 +1,17 @@
 site_name: NEFU_China
-
+theme: flatly
+copyright: NEFU_China © 2021
 nav:
   - Home: Home.md  
   - Team: 
-      - Members: Members.md
-      - Attributions: Attributions.md
+      - Members: Team/Members.md
+      - Attributions: Team/Attributions.md
   - Project: 
-      - Description: Description.md
-      - Design: Design.md
-      - Result: Result.md
-      - Experiments: Experiments.md
-      - Notebook: Notebook.md
-      - Contribution: Contribution.md
-      - Demonstrate: Demonstrate.md
+      - Description: Project/Description.md
+      - Design: Project/Design.md
+      - Result: Project/Result.md
+      - Experiments: Project/Experiments.md
+      - Notebook: Project/Notebook.md
+      - Contribution: Project/Contribution.md
+      - Demonstrate: Project/Demonstrate.md
   - Satefy: Satefy.md
