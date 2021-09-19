@@ -1,0 +1,16 @@
+site_name: NEFU_China
+
+nav:
+  - Home: Home.md  
+  - Team: 
+      - Members: Members.md
+      - Attributions: Attributions.md
+  - Project: 
+      - Description: Description.md
+      - Design: Design.md
+      - Result: Result.md
+      - Experiments: Experiments.md
+      - Notebook: Notebook.md
+      - Contribution: Contribution.md
+      - Demonstrate: Demonstrate.md
+  - Satefy: Satefy.md
